@@ -32,9 +32,17 @@ canvas {
   margin: 0px 0px;
   font-size: 60px;
 }
+
 .intro h3{
-    margin: 10px 0px 0px;
+    margin: 8px 0px 0px;
     font-size: 45px;
+}
+
+#typing{
+  text-decoration: none;
+  color: rgb(54, 54, 54);
+  pointer-events: none;
+   cursor: default;
 }
 
 .intro p, a{
