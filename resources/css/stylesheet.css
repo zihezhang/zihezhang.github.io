@@ -20,12 +20,12 @@ canvas {
 }
 
 .intro{
-    margin: 15% 13%;
-    padding: 0px;
-    width: 80%;
-    color: rgb(54, 54, 54);
-    /* float: left; */
-    letter-spacing: 2px;
+  margin: 15% 13%;
+  padding: 0;
+  width: 70%;
+  color: rgb(54, 54, 54);
+  /* float: left; */
+  letter-spacing: 2px;
 }
 
 .intro h1{
@@ -34,15 +34,15 @@ canvas {
 }
 
 .intro h3{
-    margin: 8px 0px 0px;
-    font-size: 45px;
+  margin: 8px 0px 0px;
+  font-size: 45px;
 }
 
 #typing{
   text-decoration: none;
   color: rgb(54, 54, 54);
   pointer-events: none;
-   cursor: default;
+  cursor: default;
 }
 
 .intro p, a{
@@ -52,23 +52,23 @@ canvas {
 }
 
 .intro ul{
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .intro li{
-    display: inline-block;
-    margin-right: 20px;
-    list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+  list-style: none;
 }
 .intro li a{
-    /* color: rgba(0, 0, 0, 0.4); */
-    color: rgb(139, 53, 103);
-    text-decoration: none;
-    font-size: 45px;
-    transition: all ease-in-out 250ms;
+  /* color: rgba(0, 0, 0, 0.4); */
+  color: rgb(139, 53, 103);
+  text-decoration: none;
+  font-size: 45px;
+  transition: all ease-in-out 250ms;
 }
 .intro li a:hover{
-    color: #b9b9b9;
+  color: #b9b9b9;
 }
 
 .link-highlight {
